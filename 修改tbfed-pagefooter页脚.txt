@@ -1,0 +1,3 @@
+# vim ./node_modules/gitbook-plugin-tbfed-pagefooter/index.js
+
+更改成你的博客链接和标题

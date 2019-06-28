@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url> <loc>https://zhousiwei.gitee.io/myBook/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://zhousiwei.gitee.io/myBook/contact.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://zhousiwei.gitee.io/myBook/blog/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://zhousiwei.gitee.io/myBook/opensource/</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://zhousiwei.gitee.io/myBook/opensource/springboot_mybatisplus.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://zhousiwei.gitee.io/myBook/opensource/bootplus.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://zhousiwei.gitee.io/myBook/opensource/hqc_mp.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://zhousiwei.gitee.io/myBook/opensource/fastjson-spring-boot-starter.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+<url> <loc>https://zhousiwei.gitee.io/myBook/opensource/anires.html</loc> <changefreq>weekly</changefreq> <priority>0.5</priority> </url>
+</urlset>
