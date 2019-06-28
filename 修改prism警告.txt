@@ -1,0 +1,9 @@
+# 每次重新执行npm install 后都会出现
+# warn: "options" property is deprecated, use config.get(key) instead 
+# warn: "options.generator" property is deprecated, use "output.name" instead
+
+## 解决
+执行命令:
+vim ./node_modules/gitbook-plugin-prism/index.js
+更改四十一行 if (book.options && book.options.generator)
+改成 if (/^2+\.\d+\.\d+$/.test(book.gitbook.version))

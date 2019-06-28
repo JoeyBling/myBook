@@ -1,0 +1,35 @@
+在使用该主题的过程中，发现经常会在控制台报下面的错误，没有找到是哪里的原因，官方也一直没有修复。
+
+theme.js:4 Uncaught TypeError: Cannot read property 'split' of undefined
+
+vim /root/.gitbook/versions/3.2.3/node_modules/gitbook-plugin-theme-default/src/js/theme/navigation.js
+
+找到 getChapterHash 函数
+
+修改为:
+
+
+```javascript
+    //var $link = $chapter.children('a'),
+    //    hash = $link.attr('href').split('#')[1];
+
+    //if (hash) hash = '#'+hash;
+    //return (!!hash)? hash : '';
+    var $link = $chapter.children('a'),
+        hash,
+        href,
+        parts;
+
+    if ($link.length) {
+        href = $link.attr('href')
+        if (href) {      
+            parts = href.split('#');
+            if (parts.length>1) {
+                hash = parts[1];
+            }
+        } 
+    }           
+    
+    if (hash) hash = '#'+hash;
+    return (!!hash)? hash : '';
+```

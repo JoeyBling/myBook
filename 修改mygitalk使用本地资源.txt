@@ -1,0 +1,17 @@
+# cp -rp ./gitalk/* ./node_modules/gitbook-plugin-mygitalk/assets/
+# vim ./node_modules/gitbook-plugin-mygitalk/index.js
+
+修改成：
+
+```javascript
+css: [
+            // "https://unpkg.com/gitalk/dist/gitalk.css",
+            "gitalk.css",
+            "mygitalk.css"
+        ],
+        js: [
+            // "https://unpkg.com/gitalk/dist/gitalk.min.js",
+            "gitalk.min.js",
+            "mygitalk.js"
+        ]
+```

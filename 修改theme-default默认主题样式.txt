@@ -1,0 +1,19 @@
+修改favicon.ico
+
+# vim /root/.gitbook/versions/3.2.3/node_modules/gitbook-plugin-theme-default/_layouts/website/layout.html
+注释掉第九行和第十行
+<!-- -->
+
+修改Published with GitBook
+
+# vim /root/.gitbook/versions/3.2.3/node_modules/gitbook-plugin-theme-default/_layouts/website/summary.html
+
+
+搜索 `https://www.gitbook.com`  并更改成你的博客链接和标题
+
+
+```html
+        <a href="https://zhousiwei.gitee.io" target="blank" class="gitbook-link">
+           Published with 試毅-思伟<!-- {{ "GITBOOK_LINK"|t }}{{t}} -->
+        </a>
+```
