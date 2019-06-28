@@ -67,8 +67,8 @@
 			"token": "f1f256f18b7899e11647d6ec1f3ded2f"
 		},
 		"donate": {
-			"wechat": "/assets/weixin.png",
-			"alipay": "/assets/alipay.jpeg",
+			"wechat": "assets/weixin.png",
+			"alipay": "assets/alipay.jpeg",
 			"title": "",
 			"button": "赏",
 			"alipayText": "支付宝打赏",
@@ -99,12 +99,12 @@
 			"prefix": "https://zhousiwei.gitee.io/myBook/"
 		},
 		"favicon": {
-			"shortcut": "/assets/images/favicon.ico",
-			"bookmark": "/assets/images/favicon.ico",
-			"appleTouch": "/assets/images/apple-touch-icon.png",
+			"shortcut": "assets/images/favicon.ico",
+			"bookmark": "assets/images/favicon.ico",
+			"appleTouch": "assets/images/apple-touch-icon.png",
 			"appleTouchMore": {
-				"120x120": "/assets/images/apple-touch-icon-120x120.png",
-				"180x180": "/assets/images/apple-touch-icon-180x180.png"
+				"120x120": "assets/images/apple-touch-icon-120x120.png",
+				"180x180": "assets/images/apple-touch-icon-180x180.png"
 			}
 		},
 		"mygitalk": {
