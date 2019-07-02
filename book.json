@@ -67,8 +67,8 @@
 			"token": "a2e394cc17acd341b904fe377bb0d7c6"
 		},
 		"donate": {
-			"wechat": "assets/weixin.png",
-			"alipay": "assets/alipay.jpeg",
+			"wechat": "/myBook/assets/weixin.png",
+			"alipay": "/myBook/assets/alipay.jpeg",
 			"title": "",
 			"button": "赏",
 			"alipayText": "支付宝打赏",
@@ -128,8 +128,8 @@
 			"bottom": 56
 		}
 	},
-	"title": "試毅-思伟_开源项目",
-	"description": "試毅-思伟_开源项目",
+	"title": "試毅-思伟_开发笔记",
+	"description": "試毅-思伟_开发笔记",
 	"author": "試毅-思伟",
 	"language": "zh-hans",
 	"root": ".",
