@@ -2,6 +2,8 @@
 
 > 预览 ➡️ [https://joeybling.github.io/myBook](https://joeybling.github.io/myBook)
 
+> pdf版 ➡️ [http://zhousiwei.gitee.io/mybook/mybook.pdf](http://zhousiwei.gitee.io/mybook/mybook.pdf "http://zhousiwei.gitee.io/mybook/mybook.pdf")
+
 **一直在努力,从未放弃**
 
 > 不浮躁，不偏激，不守旧，爱编程，爱后端，爱新技术，爱运动，爱旅行，执行力和学习能力都棒棒哒！
