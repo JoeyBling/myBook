@@ -17,14 +17,36 @@
 * [SpringBoot设置默认首页](java/springboot_index.md)
 * [Ajax请求设置Type为Form-Data](java/ajax_type.md)
 
-## Part III - Hexo博客
+## Part III - 前端开发笔记
+* [前端开发笔记](web/README.md)
+    * [移动Web开发技巧汇总](web/collect.md)
+    * [前端开发注意事项](web/notice.md)
+    * [nodejs项目配置文件介绍](web/node/nodejs.md)
+        * [gulpfile.js](web/node/gulpfilejs.md)
+        * [package.json](web/node/packagejson.md)
+        * [config.rb](web/node/configrb.md)
+        * [.gitignore](web/node/gitignore.md)
+    * [模块化管理工具及框架](web/frame/README.md)
+        * [Webpack](web/frame/webpack.md)
+        * [seajs](web/frame/seajs.md)
+    * [js模块](web/js/README.md)
+        * [时间相关模块](web/js/time.md)
+        * [common.js](web/js/commonjs.md)
+        * [js及jquery获取页面和元素的宽高](web/js/ele_opera.md)
+        * [js常用函数](web/js/function.md)
+        * [ajax写法](web/js/ajax.md)
+    * [常用插件](web/plugin/README.md)
+        * [常用弹层插件](web/plugin/model.md)
+        * [常用效果插件](web/plugin/plugins.md)
+
+## Part IV - Hexo博客
 * [Hexo博客yilia主题添加背景音乐](hexo/hexo_music.md)
 * [Hexo博客添加helper-live2d动态模型插件](hexo/hexo_live2d.md)
 * [Hexo博客添加访问量统计](hexo/hexo_pv.md)
 * [使用Hexo+GitHub搭建免费个人博客](hexo/hexo_github.md)
 * [新增Hexo博客文章置顶功能](hexo/article_set_top.md)
 
-## Part IV - 日记本
+## Part V - 日记本
 * [Git分支的创建、删除、切换](notes/git_branch.md)
 * [Git彻底删除历史提交记录的方法](notes/git_history.md)
 * [GitBook的安装、卸载、常见问题](notes/gitbook.md)
@@ -36,7 +58,7 @@
 * [玩转MySQL优化命令](notes/mysql_config.md)
 * [BitComet服务器列表](notes/bitcomet.md)
 
-## Part V - Linux
+## Part VI - Linux
 * [Linux下安装GLIBC_2.15](linux/glibc.md)
 * [Linux安装python2-7-9](linux/python.md)
 * [Linux下安装rabbitMq](linux/rabbitmq.md)
@@ -70,7 +92,7 @@
 * [Linux中bond网卡绑定方法](linux/bond_network.md)
 * [Linux-查看网卡UUID](linux/uuid.md)
 
-## Part VI - ELK日志分析
+## Part VII - ELK日志分析
 * [Linux-搭建-ElasticSearch5.x](elk/linux_es5.md)
 * [搭建ElasticSearch-6.1.3分布式集群](elk/es_cluster.md)
 * [Elasticsearch-5.5.0安装head插件](elk/es_head.md)

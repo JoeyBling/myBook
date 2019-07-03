@@ -1,6 +1,8 @@
 # myBook
 一直在努力,从未放弃
 
+> pdf版 ➡️ [http://zhousiwei.gitee.io/mybook/mybook.pdf](http://zhousiwei.gitee.io/mybook/mybook.pdf "http://zhousiwei.gitee.io/mybook/mybook.pdf")
+
 ## 简介
 - [开源项目](./opensource/README.md)
 - [我的博客](./blog/README.md)

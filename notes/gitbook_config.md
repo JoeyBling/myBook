@@ -73,6 +73,8 @@ description: GitBook相关配置及优化
 ### 2、GitBook生成电子书
 
 - 需要有calibre-ebook环境 ➡️ [Linux下安装calibre-ebook](https://www.jianshu.com/p/244c2b4632d9)
+- [GitBook生成pdf出现中文不显示或乱码](https://www.jianshu.com/p/e08eb95f79c7)
+
 
 ```bash
 --- 生成PDF文件
